@@ -1,19 +1,31 @@
 # 🚀 Priyanshu (Shivaay)'s Developer Portfolio 🌐
 
+<<<<<<< HEAD
 ![Website](https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Live&url=https://shivaay20005.github.io/shivaay2005/)
+=======
+![Website](https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Live&url=https%3A%2F%2Fyourwebsiteurl.com)
+>>>>>>> b5675fadf00778ed3d1555cafac0a422f83a35fc
 ![Made with HTML, CSS, JS](https://img.shields.io/badge/Made%20with-HTML%2C%20CSS%2C%20JS-blue)
 ![Profile Badge](https://img.shields.io/badge/Developer-Priyanshu%20%7C%20SHIVAAY-brightgreen)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivaay20005/shivaay-portfolio?style=social)
 
 ---
 
+<<<<<<< HEAD
 > ✨ A fully responsive, modern, and elegant portfolio website built by **Priyanshu (Shivaay)** – an aspiring Computer Scientist, Ethical Hacker & Web Developer from **India**.
+=======
+> ✨ A fully responsive, modern, and elegant portfolio website built by **Priyanshu (Shivaay)** – an aspiring Computer Scientist, Ethical Hacker & Web Developer from **Azamgarh, India**.
+>>>>>>> b5675fadf00778ed3d1555cafac0a422f83a35fc
 
 ---
 
 ## 📌 Live Preview
 
+<<<<<<< HEAD
 🚀 [Click Here to Visit My Portfolio](https://shivaay20005.github.io/shivaay2005/)  
+=======
+🚀 [Click Here to Visit My Portfolio](https://yourwebsiteurl.com)  
+>>>>>>> b5675fadf00778ed3d1555cafac0a422f83a35fc
 📫 Want to connect? [Join me on Telegram](https://t.me/Shivaay20005)
 
 ---
@@ -22,7 +34,11 @@
 
 | Desktop View | Mobile View |
 |--------------|-------------|
+<<<<<<< HEAD
 | ![Desktop](shivaay123.jpg) | ![Mobile](shivaayandroid.jpg) |
+=======
+| ![Desktop](assets/screenshots/desktop-view.png) | ![Mobile](assets/screenshots/mobile-view.png) |
+>>>>>>> b5675fadf00778ed3d1555cafac0a422f83a35fc
 
 ---
 
